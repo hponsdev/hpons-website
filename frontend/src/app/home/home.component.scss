@@ -1,0 +1,19 @@
+.home-div{
+    height: 75vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    
+    background-color: rgb(49, 49, 49);
+    color: white;
+}
+
+.first-text{
+    font-size: 40px;
+}
+
+.second-text{
+    font-size: 22px;
+}

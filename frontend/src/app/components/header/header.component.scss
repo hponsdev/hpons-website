@@ -1,0 +1,27 @@
+header{
+    font-weight: 400;
+
+    nav{
+        background-color: black;
+        height: 14vh;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        color: white;
+    }
+}
+
+.left-section{
+    flex: 1;
+    margin-left: 50px;
+    font-size: 38px;
+    
+}
+
+.right-section{
+    display: flex;
+    margin-right: 50px;
+    gap: 40px;
+    font-size: 24px;
+}
